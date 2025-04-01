@@ -1,0 +1,9 @@
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/uninstall.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/rmf_demos_assets_uninstall.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/test.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/edit_cache.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/rebuild_cache.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/list_install_components.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/install.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/install/local.dir
+/home/daniele/rms_ws_wh/build/rmf_demos_assets/CMakeFiles/install/strip.dir
