@@ -1,0 +1,17 @@
+config.yaml
+package.xml
+setup.cfg
+setup.py
+launch/fleet_adapter.launch.xml
+resource/rmf_demos_fleet_adapter
+rmf_demos_fleet_adapter.egg-info/PKG-INFO
+rmf_demos_fleet_adapter.egg-info/SOURCES.txt
+rmf_demos_fleet_adapter.egg-info/dependency_links.txt
+rmf_demos_fleet_adapter.egg-info/entry_points.txt
+rmf_demos_fleet_adapter.egg-info/requires.txt
+rmf_demos_fleet_adapter.egg-info/top_level.txt
+rmf_demos_fleet_adapter.egg-info/zip-safe
+test/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
