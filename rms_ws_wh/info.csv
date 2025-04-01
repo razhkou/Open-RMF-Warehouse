@@ -1,0 +1,6 @@
+type,item
+in,BoxA
+in,BoxB
+out,BoxA
+in,Toolkit
+out,BoxB
