@@ -1,0 +1,102 @@
+building_name: warehouse
+doors: {}
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {}
+    - - 1
+      - 0
+      - {}
+    - - 1
+      - 2
+      - {is_bidirectional: false}
+    - - 2
+      - 3
+      - {is_bidirectional: false}
+    - - 3
+      - 4
+      - {is_bidirectional: false}
+    - - 4
+      - 5
+      - {is_bidirectional: false}
+    - - 5
+      - 6
+      - {is_bidirectional: false}
+    - - 6
+      - 7
+      - {is_bidirectional: false}
+    - - 7
+      - 8
+      - {is_bidirectional: false}
+    - - 8
+      - 9
+      - {is_bidirectional: false}
+    - - 9
+      - 10
+      - {is_bidirectional: false}
+    - - 10
+      - 11
+      - {is_bidirectional: false}
+    - - 11
+      - 12
+      - {is_bidirectional: false}
+    - - 12
+      - 13
+      - {is_bidirectional: false}
+    - - 13
+      - 14
+      - {is_bidirectional: false}
+    - - 14
+      - 1
+      - {is_bidirectional: false}
+    vertices:
+    - - 18.947193974127313
+      - -10.819323304035956
+      - {is_charger: true, is_parking_spot: true, name: tinyRobot2_charger, spawn_robot_name: tinyRobot2,
+        spawn_robot_type: TinyRobot}
+    - - 16.865347614400235
+      - -10.921376945291303
+      - {dropoff_ingestor: ingestorTR02, name: A2}
+    - - 16.865347614400235
+      - -1.7572155439318415
+      - {name: B2, pickup_dispenser: dispenserTR01}
+    - - 13.299819819830931
+      - -1.8849672944213183
+      - {dropoff_ingestor: ingestor5, name: shelf5_in}
+    - - 10.973392154735675
+      - -1.8569329934386323
+      - {dropoff_ingestor: ingestor4, name: shelf4_in}
+    - - 8.675018758073952
+      - -1.8569329934386323
+      - {dropoff_ingestor: ingestor3, name: shelf3_in}
+    - - 6.769025737915618
+      - -1.828898692455946
+      - {dropoff_ingestor: ingestor2, name: shelf2_in}
+    - - 5.003204222670716
+      - -1.8569329934386323
+      - {dropoff_ingestor: ingestor1, name: shelf1_in}
+    - - 2.1088024183642746
+      - -1.8592691851871892
+      - {is_charger: true, name: tinyRobot1_charger, spawn_robot_name: tinyRobot1,
+        spawn_robot_type: TinyRobot}
+    - - 2.1088024183642746
+      - -10.880563475769502
+      - {name: A1}
+    - - 4.8350183842254415
+      - -10.966383579490005
+      - {is_holding_point: true, is_parking_spot: false, name: shelf1_out, pickup_dispenser: dispenser1}
+    - - 6.741011404383775
+      - -10.99441788047269
+      - {name: shelf2_out, pickup_dispenser: dispenser2}
+    - - 8.675018758073952
+      - -10.99441788047269
+      - {name: shelf3_out, pickup_dispenser: dispenser3}
+    - - 11.001426455718361
+      - -10.99441788047269
+      - {name: shelf4_out, pickup_dispenser: dispenser4}
+    - - 13.467985690825362
+      - -11.022452181455376
+      - {name: shelf5_out, pickup_dispenser: dispenser5}
+lifts: {}
